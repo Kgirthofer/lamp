@@ -1,0 +1,20 @@
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+pkg/
+
+# Berkshelf
+/cookbooks
+Berksfile.lock
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+nodes
+tmp
+.swp*

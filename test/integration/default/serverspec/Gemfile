@@ -1,0 +1,8 @@
+#source 'https://radmine'
+source 'https://rubygems.org'
+
+group :test, :development do
+  gem 'serverspec', '2.25.0'
+  # specinfra 2.36.18 is bugged on the 'match' matcher.
+  gem 'specinfra', '2.36.14'
+end
