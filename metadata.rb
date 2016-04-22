@@ -1,10 +1,10 @@
 name 'lamp'
 maintainer 'Karl Girthofer'
 maintainer_email 'karlgirthofer@gmail.com'
-license 'All rights reserved'
+license 'GNU GPL v3'
 description 'Installs/Configures lamp server'
 long_description 'Installs/Configures lamp server'
-version '1.0.3'
+version '1.0.4'
 
 
 supports 'amazon'
