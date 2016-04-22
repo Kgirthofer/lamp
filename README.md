@@ -12,6 +12,7 @@ You'll need to create a data bag "mysql" with item "password", store your root p
 ## Supported Platforms
 
 Amazon Linux
+
 Will add more as time allows
 
 
